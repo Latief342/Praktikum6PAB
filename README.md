@@ -19,7 +19,18 @@ Aplikasi Android yang menampilkan daftar 10 atlet dengan penghasilan tertinggi d
 
 ---
 
+## 🛠️ Tech Stack & Library
 
+Aplikasi **SportsApp** dibangun menggunakan Android Native dengan bahasa **Kotlin** dan antarmuka berbasis **XML View System**. 
+
+* **Language:** [Kotlin](https://kotlinlang.org/)
+* **UI Framework:** Android XML, Material Design (Untuk Bottom Sheet)
+* **Architecture:** Master-Detail Flow dengan Custom Back Stack Management
+* **Dependencies/Library:**
+    * [Glide](https://github.com/bumptech/glide) - Untuk *image loading* & *caching* yang ringan.
+    * **RecyclerView** - Untuk merender daftar data secara dinamis dan efisien.
+    * **CardView** - Untuk memberikan efek bayangan (elevasi) dan sudut melengkung pada daftar.
+    * **Serializable** - Untuk pengiriman objek data utuh antar *Activity*.
 
 ---
 
