@@ -53,3 +53,40 @@ app
 │   ├── layout_bottom_sheet.xml# [BARU] Layout kustom untuk pop-up Bottom Sheet
 │   └── item_athlete.xml       # Layout baris untuk adapter RecyclerView
 └── res/drawable               # Asset gambar atlet & UI Icons
+
+```
+---
+
+## 🏠︎ Home Page
+
+Berikut merupakan tampilan halaman utama aplikasi.
+
+<img width="349" height="785" alt="Screenshot 2026-04-24 180243" src="https://github.com/user-attachments/assets/8cef8482-00bd-4b19-b9c6-008da577ca00" />
+
+---
+
+## 📸 Tampilan Aplikasi
+
+Struktur project dan hasil tampilan aplikasi dapat dilihat pada gambar berikut.
+
+<img width="356" height="787" alt="Screenshot 2026-04-17 172344" src="https://github.com/user-attachments/assets/23a4a32c-ee84-45df-b846-9305fcbcaec5" />
+
+---
+
+## 📄 Halaman Detail Atlet
+
+Berikut tampilan halaman detail atlet saat salah satu data dipilih.
+
+<img width="344" height="770" alt="Screenshot 2026-04-24 180349" src="https://github.com/user-attachments/assets/e30b58b7-f2bc-4395-b124-3fdcec73e937" />
+
+
+---
+
+## 👨‍💻 Anggota Kelompok
+
+1. Abdul Latief (L0324001)
+2. Anton Sulaiman (L0324004)
+3. Muhammad Hafizh Fadhilah (L0324021)
+      
+---
+
