@@ -15,7 +15,6 @@ Aplikasi Android yang menampilkan daftar 10 atlet dengan penghasilan tertinggi d
 * **Daftar Atlet Teratas:** Menampilkan 10 atlet dengan penghasilan tertinggi dalam format list yang modern dan responsif.
 * **Fitur Pencarian (Search):** Mencari atlet secara *real-time* berdasarkan nama.
 * **Halaman Detail:** Informasi mendalam tentang setiap atlet, termasuk cabang olahraga, deskripsi karier, dan total penghasilan.
-* **Berbagi Informasi (Share):** Fitur Intent untuk membagikan ringkasan data atlet ke aplikasi lain (WhatsApp, Email, dll.).
 
 ---
 
