@@ -98,3 +98,6 @@ Berikut tampilan halaman detail atlet saat salah satu data dipilih.
       
 ---
 
+## ▶️ Link Youtube
+
+https://youtube.com/shorts/UDbAqlrNn3o?si=nIuJcsi1VaIZgtDi
